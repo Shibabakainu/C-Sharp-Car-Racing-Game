@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0H02043_レーチェンヒエウ_CarRacingGame", "0H02043_レーチェンヒエウ_CarRacingGame\0H02043_レーチェンヒエウ_CarRacingGame.csproj", "{7158136C-C1E4-44CC-B1E2-F906F22D1E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7158136C-C1E4-44CC-B1E2-F906F22D1E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7158136C-C1E4-44CC-B1E2-F906F22D1E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7158136C-C1E4-44CC-B1E2-F906F22D1E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7158136C-C1E4-44CC-B1E2-F906F22D1E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {746FE737-3432-4B5B-AFF6-B7193BE4D4DF}
+	EndGlobalSection
+EndGlobal
